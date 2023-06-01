@@ -1,7 +1,6 @@
-baseURL = "/"
+baseURL = "https://sathjana.foundation/"
 languageCode = "en-us"
 title = "Sathjana Foundation"
-themesDir = "themes"
 theme = "hugo-hero-theme"
 
 [module]
