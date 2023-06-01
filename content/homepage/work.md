@@ -1,9 +1,10 @@
 ---
-title: 'We Help Business Grow'
+title: 'We conduct diverse social impact projects'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+button: 'Support Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Your generous support, both financially and in kind, enables us to conduct diverse social impact projects.  
+

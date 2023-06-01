@@ -1,9 +1,9 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+email: 'info@sathjana.foundation'
+phone: '+94 776074040'
+businessName: 'Sathjana Foundation'
 address: |
-  123 Some Street
-  City, State 12345
+   No 12, Old Kottawa Road, Mirihana, Nugegoda, 10250 Sri Lanka
+
 hours:
   - day: Monday
     open: 8:30am

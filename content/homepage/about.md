@@ -2,8 +2,8 @@
 title: 'Our Difference'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'Who we are'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+We team up with ethical and non-partisan leaders to protect the supreme well-being of the land of Sri Lanka and her people
