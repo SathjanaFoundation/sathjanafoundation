@@ -5,16 +5,16 @@ heroHeading: 'Join with us'
 heroSubHeading: 'Let’s strengthen our values - honesty, integrity and credibility'
 heroBackground: 'https://source.unsplash.com/eluzJSfkNCk/1600x400'
 
-
 ---
+
 
 If you have a vision similar to us that protects the supreme well-being of Sri Lanka and her people, we would love to hear from you.
 
----
+
 
 We invite you to become part of this growing force, as an associate member or a volunteer, to achieve the objectives of the Sathjana Foundation. 
 
----
+
 
 ## SATHJANA CODE OF CONDUCT
 
@@ -38,11 +38,9 @@ https://drive.google.com/file/d/1RztZUMQdYqHYydnWFuxqxFGZH-P8lY-0/view?usp=share
 
 
 
-Please email the completed membership application and the code of conduct document to:
-### members.sathjanafoundation@gmail.com
+Please email the completed membership application and the code of conduct document to: members.sathjanafoundation@gmail.com
 
----
----
+
 ----
 
 ### MEMBERSHIP CATEGORIES 
