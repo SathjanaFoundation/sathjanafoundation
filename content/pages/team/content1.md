@@ -10,11 +10,11 @@ buttonLink: 'contact'
 ---
 ---
 
-Mr Wijitha Dakshina Karunarathne (President)
+Mr Wijitha Dakshina Karunarathne
 
-Mr Tuan Kamoor Halaldeen (Secretary)
+Mr Tuan Kamoor Halaldeen
 
-Mr Wagira Mahendra Djarmarathne ( Treasurer)
+Mr Wagira Mahendra Djarmarathne
 
 Ms Chula Samarawikrama 
 
